@@ -1,4 +1,4 @@
-### Boo Coding Assigment
+# Boo Coding Assigment
 NodeJS Express project using mongodb-memory-server (https://github.com/nodkz/mongodb-memory-server?tab=readme-ov-file#installation)
 
 ## Figma design
